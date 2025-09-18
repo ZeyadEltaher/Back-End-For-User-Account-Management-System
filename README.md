@@ -1,4 +1,4 @@
-# The Logic of User Account Management System
+# The Logic For User Account Management System
 
 This Python backend project provides a simple yet secure user account management system. It handles user registration, login with password hashing, password updates, account deletion with backup, and account restoration using a MySQL database.
 
